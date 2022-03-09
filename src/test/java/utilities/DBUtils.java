@@ -191,7 +191,7 @@ public class DBUtils {
         }
         return rowList;
     }
-    /*
+    /**
      * @return List of columns returned in result set
      */
     public static List<String> getColumnNames(String query) {
